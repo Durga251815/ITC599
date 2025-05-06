@@ -34,8 +34,6 @@ project/
 
 ## Setup Instructions
 
-Follow these steps to set up the project environment:
-
 **1. Clone the Repository (if applicable):**
    If this project is hosted on Git, clone it first:
    ```bash
